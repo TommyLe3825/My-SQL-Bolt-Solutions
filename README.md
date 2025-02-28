@@ -3,8 +3,8 @@
 - I completed these exercises as part of my SQL learning journey.
 
 ## 📌 About
+- The `Lessons/` folder contains each lesson provided by SQLBolt.
 - Each `.sql` file contains queries I wrote based on SQLBolt's interactive exercises.
-- The `tables/` folder contains reference images or descriptions of the tables provided by SQLBolt.
 
 ## 📖 Credit
 All exercises and table structures are provided by [SQLBolt](https://sqlbolt.com/).  
