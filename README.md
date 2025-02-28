@@ -3,8 +3,8 @@ My SQL exercises and solutions from SQLBolt
 
 # SQLBolt Solutions
 
-This repository contains my SQL solutions from [SQLBolt](https://sqlbolt.com/).  
-I completed these exercises as part of my SQL learning journey.
+- This repository contains my SQL solutions from [SQLBolt](https://sqlbolt.com/).  
+- I completed these exercises as part of my SQL learning journey.
 
 ## 📌 About
 - Each `.sql` file contains queries I wrote based on SQLBolt's interactive exercises.
