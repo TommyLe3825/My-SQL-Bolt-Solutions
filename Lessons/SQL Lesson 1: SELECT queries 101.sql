@@ -6,6 +6,9 @@ Find the title and year of each film
 Find all the information about each film
 */
 
+--Columns == Properties
+--Rows == Instances
+
 -- Find the title of each film
 
 SELECT Title FROM movies;
