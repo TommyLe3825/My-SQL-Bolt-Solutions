@@ -1,6 +1,3 @@
-# SQLbolt_answers
-My SQL exercises and solutions from SQLBolt
-
 # SQLBolt Solutions
 
 - This repository contains my SQL solutions from [SQLBolt](https://sqlbolt.com/).  
