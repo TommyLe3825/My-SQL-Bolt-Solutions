@@ -6,8 +6,10 @@ Find the title and year of each film
 Find all the information about each film
 */
 
+--SELECT query is written to select a couple of columns of the table with all the rows
 --Columns == Properties
 --Rows == Instances
+
 
 -- Find the title of each film
 
