@@ -21,3 +21,7 @@ WHERE YEAR NOT BETWEEN 2000 AND 2010;
 --Find the first 5 Pixar movies and their release year
 SELECT * FROM movies
 WHERE ID BETWEEN 1 AND 5;
+
+--I remember awhile back you could also do this with LIMIT:
+SELECT * FROM movies
+LIMIT 5;
